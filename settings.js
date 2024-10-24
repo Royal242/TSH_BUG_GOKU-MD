@@ -9,22 +9,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "242044798537"
+global.ownername = "𝑬𝑴𝑷𝑬𝑹𝑬𝑼𝑹 𝑳𝑶𝑹𝑫 𝑩𝑳𝑶𝑶𝑫"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '242044798537'  //creator number
+global.ownername = '𝑬𝑴𝑷𝑬𝑹𝑬𝑼𝑹 𝑳𝑶𝑹𝑫 𝑩𝑳𝑶𝑶𝑫' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
-global.packname = 'FML-GRIMM🐲🌹'
-global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
+global.packname = '𝚂𝙴𝙽𝙱𝙾𝙽 𝚉𝙰𝙺𝚄𝚁𝙰 𝙺𝙰𝙶𝙴𝚈𝙾𝚂𝙷𝙸'
+global.author = '𝑬𝑴𝑷𝑬𝑹𝑬𝑼𝑹 𝑳𝑶𝑹𝑫 𝑩𝑳𝑶𝑶𝑫'
 
 //console view/theme
-global.themeemoji = '🌹'
+global.themeemoji = '🌸'
 global.wm = "MR KEVIN TSH in©"
 
 //theme link
